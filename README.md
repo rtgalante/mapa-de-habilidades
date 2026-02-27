@@ -1,0 +1,1 @@
+- Incluído o arquivo Mapa de Habilidades no formato PDF, com as informações obtidas através de prompts no copilot.
